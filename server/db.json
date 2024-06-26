@@ -1,0 +1,19 @@
+{
+    "todo":[
+        {
+            "id":1,
+            "name":"learn",
+            "status":false
+        },
+        {
+            "id":2,
+            "name":"Quét nhà",
+            "status":false
+        },
+        {
+            "id":3,
+            "name":"Giặt quần áo",
+            "status":true
+        }
+    ]
+}
